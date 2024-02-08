@@ -1,0 +1,47 @@
+html{
+    background-color: #6895D2;
+}
+p.lead{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.gap-2 {
+    gap: 5rem!important;
+}
+
+label,h1{
+    font-family: Butterfly Kids;
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+
+
+
+.drum {
+    outline: none;
+    border: 10px solid #D04848;
+    font-size: 3rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color:#561C24;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+
+  .py-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.button{
+    background-color: green;
+}
